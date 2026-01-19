@@ -1,5 +1,5 @@
 // Author: Dashiell Coyier
-// Source code from Carleton College CS 201 f25, taught by Anya Vostinar
+// Starter code from Carleton College CS 201 f25, taught by Anya Vostinar
 
 
 /*
