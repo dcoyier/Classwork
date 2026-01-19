@@ -1,10 +1,6 @@
 // Author: Dashiell Coyier
 // Source code from Carleton College CS 201 f25, taught by Anya Vostinar
 
-// Reflection: I had to use print statements to debug solveMaze() a few times, but I
-// fixed what I needed to. The command line argument part was new for me, and that was
-// a bit tricky to understand at first.
-
 
 fun main(args: Array<String>) {
     if (args.size == 2 && args[1] == "--solve") {
